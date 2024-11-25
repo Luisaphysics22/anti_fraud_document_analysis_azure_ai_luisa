@@ -1,0 +1,56 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.pyd
+*.pdb
+*.db
+*.log
+
+# IDEs (ex: VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Configurações do ambiente virtual
+env/
+venv/
+*.env
+*.venv
+
+# Arquivos de dependências
+*.egg-info/
+dist/
+build/
+*.tar.gz
+
+# Arquivos de pacotes gerados por instaladores
+*.egg
+*.whl
+
+# Arquivos de credenciais (ajuste conforme necessário)
+*.key
+*.pem
+*.pfx
+*.cer
+
+# Arquivos de log e saída
+*.log
+*.out
+*.err
+
+# Arquivos temporários
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Diretórios de banco de dados SQLite
+instance/
+
+# Arquivos de configuração específicos
+config.json
+config.yaml
+
+# Arquivos do Streamlit
+.cache/
